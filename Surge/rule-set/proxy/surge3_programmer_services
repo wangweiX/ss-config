@@ -1,0 +1,12 @@
+# --- General Programmer Services ---
+
+# >> Notion
+DOMAIN-SUFFIX,notion.so
+
+# >> Github
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+
+# >> Docker
+
+# --- End of General Programmer Services Section ---
