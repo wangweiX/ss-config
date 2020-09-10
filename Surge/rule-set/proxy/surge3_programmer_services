@@ -3,6 +3,17 @@
 # >> Notion
 DOMAIN-SUFFIX,notion.so
 
+# >> evernote.com
+DOMAIN-SUFFIX,evernote.com
+
+# >> visualstudio.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,vo.msecnd.net
+DOMAIN,vscodeexperiments.azureedge.net
+
+# >> ipfs.io
+DOMAIN-SUFFIX,ipfs.io
+
 # >> Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
