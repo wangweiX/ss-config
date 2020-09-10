@@ -6,6 +6,9 @@ DOMAIN-SUFFIX,notion.so
 # >> evernote.com
 DOMAIN-SUFFIX,evernote.com
 
+# >> thing app
+DOMAIN,cloud.culturedcode.com
+
 # >> visualstudio.com
 DOMAIN-SUFFIX,visualstudio.com
 DOMAIN-SUFFIX,vo.msecnd.net
@@ -14,10 +17,20 @@ DOMAIN,vscodeexperiments.azureedge.net
 # >> ipfs.io
 DOMAIN-SUFFIX,ipfs.io
 
+# >> iterm2.com
+DOMAIN-SUFFIX,iterm2.com
+
 # >> Github
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
 
+# >> typora.io
+DOMAIN-SUFFIX,typora.io
+
+# >> amazonaws
+DOMAIN-SUFFIX,amazonaws.com
+
 # >> Docker
+DOMAIN-SUFFIX,docker.com
 
 # --- End of General Programmer Services Section ---
