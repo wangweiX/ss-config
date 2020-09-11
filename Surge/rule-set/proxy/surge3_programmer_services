@@ -3,6 +3,9 @@
 # >> Notion
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,intercom.io
+DOMAIN-SUFFIX,loggly.com
+DOMAIN-SUFFIX,intercomcdn.com
+DOMAIN-SUFFIX,notion-static.com
 
 # >> evernote.com
 DOMAIN-SUFFIX,evernote.com
