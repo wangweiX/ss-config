@@ -37,4 +37,11 @@ DOMAIN-SUFFIX,amazonaws.com
 # >> Docker
 DOMAIN-SUFFIX,docker.com
 
+# >> cloudflare
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflarestream.com
+DOMAIN-SUFFIX,cloudflare-dns.com
+DOMAIN-SUFFIX,videodelivery.net
+DOMAIN-KEYWORD,cloudflare
+
 # --- End of General Programmer Services Section ---
