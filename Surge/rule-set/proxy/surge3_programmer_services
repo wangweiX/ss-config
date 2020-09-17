@@ -51,4 +51,7 @@ DOMAIN-SUFFIX,intellij.net
 # >> NPM
 DOMAIN-SUFFIX,npmjs.org
 
+# >> NPM
+DOMAIN-SUFFIX,bintray.com
+
 # --- End of General Programmer Services Section ---
