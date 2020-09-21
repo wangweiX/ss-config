@@ -54,4 +54,7 @@ DOMAIN-SUFFIX,npmjs.org
 # >> NPM
 DOMAIN-SUFFIX,bintray.com
 
+# >> f5.com
+DOMAIN-SUFFIX,f5.com
+
 # --- End of General Programmer Services Section ---
