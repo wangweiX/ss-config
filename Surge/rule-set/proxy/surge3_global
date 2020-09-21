@@ -61,25 +61,9 @@ DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
 
-# >> Microsoft
+# >> Microsoft Overseas
 DOMAIN-SUFFIX,office365.com
 DOMAIN-SUFFIX,windows.net
-DOMAIN-SUFFIX,microsoft.com
-DOMAIN-SUFFIX,microsoftstore.com.cn
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,s-microsoft.com
-DOMAIN-SUFFIX,sfx.ms
-DOMAIN-SUFFIX,sharepoint.com
-DOMAIN-SUFFIX,visualstudio.com
-DOMAIN-SUFFIX,windows.com
-DOMAIN-SUFFIX,windowsupdate.com
-
-DOMAIN,officecdn-microsoft-com.akamaized.net
-
-DOMAIN-KEYWORD,officecdn
 
 # >> Oracle
 DOMAIN-SUFFIX,oracle.com
