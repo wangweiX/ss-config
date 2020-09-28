@@ -60,4 +60,10 @@ DOMAIN-SUFFIX,f5.com
 # >> omnigroup.com
 DOMAIN-SUFFIX,omnigroup.com
 
+# >> trello.com
+DOMAIN-SUFFIX,trellocdn.com
+DOMAIN-SUFFIX,trello.com
+DOMAIN-SUFFIX,typekit.net
+DOMAIN-SUFFIX,castle.io
+
 # --- End of General Programmer Services Section ---
