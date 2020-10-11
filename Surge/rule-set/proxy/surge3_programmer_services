@@ -66,7 +66,11 @@ DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,typekit.net
 DOMAIN-SUFFIX,castle.io
 
-# >> ubuntu.com
+# >> Ubuntu
 DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,mozilla.net
+DOMAIN-SUFFIX,mozilla.org
+DOMAIN-SUFFIX,firefox.com
 
 # --- End of General Programmer Services Section ---
