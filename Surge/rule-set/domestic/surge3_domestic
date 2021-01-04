@@ -177,17 +177,12 @@ DOMAIN-SUFFIX,jstarkan.com
 DOMAIN,vi.l.qq.com
 DOMAIN-SUFFIX,dns.pub 
 DOMAIN-SUFFIX,doh.pub 
-
-
-# >> TeslaMap
-DOMAIN-SUFFIX,52tesla.com
-USER-AGENT,TeslaMap
-
 DOMAIN-SUFFIX,gtimg.com
 DOMAIN-SUFFIX,idqqimg.com
 DOMAIN-SUFFIX,igamecj.com
 DOMAIN-SUFFIX,myapp.com
 DOMAIN-SUFFIX,myqcloud.com
+DOMAIN-SUFFIX,qcloud.com
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tencent-cloud.net
@@ -195,6 +190,10 @@ DOMAIN-SUFFIX,tencent.com
 
 USER-AGENT,MicroMessenger%20Client
 USER-AGENT,WeChat*
+
+# >> TeslaMap
+DOMAIN-SUFFIX,52tesla.com
+USER-AGENT,TeslaMap
 
 # >> YYeTs
 DOMAIN-SUFFIX,jstucdn.com
