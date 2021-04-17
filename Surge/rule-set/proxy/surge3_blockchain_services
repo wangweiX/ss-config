@@ -1,0 +1,12 @@
+# >> exchange binance
+DOMAIN-SUFFIX,binance.cloud
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,hanqiweb.cn
+DOMAIN-SUFFIX,yshyqxx.com
+
+# >> Defi
+DOMAIN-SUFFIX, coinmarketcap.com
+DOMAIN-SUFFIX, etherscan.io
+
+
+DOMAIN-KEYWORD,binance,etherscan
