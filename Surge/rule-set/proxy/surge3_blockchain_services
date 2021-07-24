@@ -3,10 +3,11 @@ DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,hanqiweb.cn
 DOMAIN-SUFFIX,yshyqxx.com
+DOMAIN-SUFFIX,hanqiweb.co
 
 # >> Defi
-DOMAIN-SUFFIX, coinmarketcap.com
-DOMAIN-SUFFIX, etherscan.io
-
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,ellipsis.finance
 
 DOMAIN-KEYWORD,binance,etherscan
