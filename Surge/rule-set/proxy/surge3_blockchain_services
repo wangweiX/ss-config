@@ -5,10 +5,11 @@ DOMAIN-SUFFIX,hanqiweb.cn
 DOMAIN-SUFFIX,yshyqxx.com
 DOMAIN-SUFFIX,hanqiweb.co
 DOMAIN-SUFFIX,tradingview.com
+DOMAIN-SUFFIX,walletconnect.org
+DOMAIN-SUFFIX,zigzag.exchange
 
 # >> Defi
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,ellipsis.finance
-
 DOMAIN-KEYWORD,binance,etherscan
