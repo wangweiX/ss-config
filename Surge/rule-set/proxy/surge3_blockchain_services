@@ -1,4 +1,4 @@
-# >> exchange binance
+# >> CEX,DEX
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,binance.org
 DOMAIN-SUFFIX,hanqiweb.cn
@@ -8,8 +8,19 @@ DOMAIN-SUFFIX,tradingview.com
 DOMAIN-SUFFIX,walletconnect.org
 DOMAIN-SUFFIX,zigzag.exchange
 
-# >> Defi
+# >> DeFi
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,etherscan.io
 DOMAIN-SUFFIX,ellipsis.finance
 DOMAIN-KEYWORD,binance,etherscan
+
+#>> RPC
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,arbitrum.io
+DOMAIN-SUFFIX,ftm.tools
+DOMAIN-SUFFIX,zksync.dev
+DOMAIN-SUFFIX,maticvigil.com
+DOMAIN-SUFFIX,moonbeam.network
+DOMAIN-SUFFIX,polygon-rpc.com
+DOMAIN-SUFFIX,pulsechain.com
